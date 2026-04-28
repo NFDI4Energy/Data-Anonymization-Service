@@ -88,3 +88,8 @@ python -m spacy download en_core_web_sm
 ```bash
 uvicorn src.api:app --host 0.0.0.0 --port 8000 --reload
 ```
+
+## License
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
